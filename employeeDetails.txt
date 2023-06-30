@@ -1,0 +1,13 @@
+Name,Department,Salary
+Rahul,IT Domain,20000
+vaibhav,support role,10000
+nilesh,Developer,80000ram,non it,30000nilkumar,non tech,50000raj,non tech,9000vikas,non tecj,900
+
+vaibhavi,tech,90000
+
+ramkumari,dev,70000
+
+vijay,jfj,900
+dhdh,djd,dhdh
+ramkrish,hdhd,80000
+ram,non it,80000
